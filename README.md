@@ -1,6 +1,6 @@
 ![image](https://github.com/fmdlc/fmdlc/raw/master/img/background.jpeg)
 
-# Hey there! Welcome to my personal GitHub :octocat: 
+# Hey there! Welcome to my personal GitHub
 
 <p>
   <a href="https://www.linkedin.com/in/fmdlc/"> <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-24x24.png" /></a>
