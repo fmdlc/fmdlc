@@ -17,4 +17,8 @@ I love hacking things like Unix systems, TCP/IP networks, Cloud Computing enviro
 
 For more information about me checkout my [LinkedIn](http://www.kinkedin.com/in/fmdlc)
 
-[![Visits](https://badges.pufler.dev/visits/fmdlc/fmdlc)](https://github.com/fmdlc)
+[![Visits](https://badges.pufler.dev/visits/fmdlc/fmdlc)](https://github.com/fmdlc) [![Years](https://badges.pufler.dev/fmdlc/fmdlc)](https://github.com/fmdlc) [![Repos](https://badges.pufler.dev/repos/fmdlc)](https://github.com/fmdlc)
+
+
+
+
