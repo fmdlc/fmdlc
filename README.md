@@ -14,7 +14,7 @@ I have been the last 12 years implementing, hardening, designing and building IT
 I love hacking things like Unix systems, TCP/IP networks, Cloud Computing environments ☁️, Kubernetes clusters ⎈, and actually GitOps pipelines :octocat: in order to build the next level of highly available, resilient and trusted infrastructure.
 
 > **Check out my latest article in Medium**:📄 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@_tty0/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@_tty0/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@_tty0/0" alt="Recent Article 0"> 
 
 For more information about me checkout my [LinkedIn](http://www.kinkedin.com/in/fmdlc)
 
