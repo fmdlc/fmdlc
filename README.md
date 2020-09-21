@@ -1,7 +1,6 @@
 ![image](https://github.com/fmdlc/fmdlc/raw/master/img/background.jpeg)
 
 <h1 align="left">Facu de la Cruz</h1>
-<h3 align="left">A passionate Site Reliability Engineer from Argentina</h3>
 
 <p>
   <a href="https://www.linkedin.com/in/fmdlc/"> <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-24x24.png" /></a>
