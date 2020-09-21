@@ -16,3 +16,5 @@ I love hacking things like Unix systems, TCP/IP networks, Cloud Computing enviro
 > **Check out my latest article in Medium**:📄 [GitOps: The next generation infrastructure](https://medium.com/@_tty0/infrastructure-evolves-and-at-the-same-time-brings-new-challenges-ebf39bda3907)
 
 For more information about me checkout my [LinkedIn](http://www.kinkedin.com/in/fmdlc)
+
+[![Visits](https://badges.pufler.dev/visits/fmdlc/fmdlc)](https://github.com/fmdlc)
