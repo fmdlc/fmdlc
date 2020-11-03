@@ -15,8 +15,6 @@ I love hacking things like Unix systems, TCP/IP networks, Cloud Computing enviro
 
 ![Facu's github stats](https://github-readme-stats.vercel.app/api?username=fmdlc&count_private=true&&show_icons=true)
 
-[![](http://img.youtube.com/vi/hI653-iHur4/0.jpg)](http://www.youtube.com/watch?v=hI653-iHur4 "ekoparty #pwndemic: Building the next generation cloud infrastructure")
-
  #### Check out my latest article in Medium:📄 
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@_tty0/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@_tty0/0" alt="Recent Article 0"> 
 
