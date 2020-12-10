@@ -13,7 +13,7 @@ Hi, I'm Facu (aka `tty0`) 👋. I am Lead of Site Reliability Engineering in [**
 I have been the last 12 years implementing, hardening, designing and building IT infrastructure 🔧 for critical and load intensive environments.
 I love hacking things like Unix systems, TCP/IP networks, Cloud Computing environments ☁️, Kubernetes clusters ⎈, and actually GitOps pipelines :octocat: in order to build the next level of highly available, resilient and trusted infrastructure.
 
-![Facu's github stats](https://github-readme-stats.vercel.app/api?username=fmdlc&count_private=true&dark=dark&show_icons=true)
+![Facu's github stats](https://github-readme-stats.vercel.app/api?username=fmdlc&count_private=true&show_icons=true&theme=dark)
 
  #### Check out my latest article in Medium:📄 
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@_tty0/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@_tty0/0" alt="Recent Article 0"> 
