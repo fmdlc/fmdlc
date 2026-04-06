@@ -1,5 +1,3 @@
-![tty0 bits](https://github.com/fmdlc/tty0/raw/main/assets/hero-japanese-minimal.svg)
-
 <h1 align="left">Facu de la Cruz</h1>
 <p><i>system internals, bits and random thoughts</i></p>
 
