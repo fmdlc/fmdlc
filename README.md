@@ -14,6 +14,12 @@
 
 <br />
 
+Hi, I'm Facu de la Cruz (aka `tty0`) 👋
+
+Site Reliability Engineer with 15+ years of experience building and scaling robust, secure, and resilient infrastructure for mission-critical and high-load environments.
+
+I focus on automation, reliability engineering, and operational excellence to reduce toil, improve agility, and help teams run trustworthy platforms at scale.
+
 <p>
   <a href="https://www.linkedin.com/in/fmdlc/">
     <img src="./img/linkedin.svg" alt="LinkedIn" width="18" height="18" align="center" />
