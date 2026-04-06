@@ -26,10 +26,6 @@ I write about Linux, low-level systems, binaries, runtime behavior, linking, deb
 - [GitOps, construindo a infraestrutura de próxima geração](https://www.youtube.com/watch?v=i4k3JBB6uLU)
 - [Building the Next Generation Infrastructure](https://www.youtube.com/watch?v=8uBwgepNbos)
 
-## Source Code
-
-- [tty0 / src](https://github.com/fmdlc/tty0/tree/main/src)
-
 ---
 
 <sub>All material published here is released under the <a href="https://github.com/fmdlc/tty0/blob/main/LICENSE">BSD-3-Clause License</a>.</sub>
