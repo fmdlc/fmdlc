@@ -33,5 +33,5 @@ I focus on automation, reliability engineering, and operational excellence to re
     <img src="./img/globe.svg" alt="GitHub Pages" width="18" height="18" align="center" />
   </a>
   &nbsp;
-  <a href="https://fmdlc.github.io/"><strong>GitHub Pages</strong></a>
+  <a href="https://fmdlc.github.io/tty0"><strong>GitHub Pages</strong></a>
 </p>
